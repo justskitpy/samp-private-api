@@ -1,0 +1,12 @@
+{
+  "name": "samp-api-backend",
+  "version": "1.0.0",
+  "description": "Private API for SAMP token check and script delivery via Vercel",
+  "main": "api/check_token.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
